@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "liveServer.settings.port": 5501,
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "p18f.h": "c",
+        "conf.h": "c",
+        "parser.h": "c",
+        "stdlib.h": "c"
+    }
+}
