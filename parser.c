@@ -5,7 +5,6 @@ int main(int argc, char const *argv[])
 {
     // readFile();
     readFile2();
-    // printf("%.4X\n", swap_wrd(0X8F8F));
     return 0;
 }
 
